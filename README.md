@@ -62,3 +62,5 @@ This program has has dependencies, and requires their installation via npm. This
 ![Jate App](./assets/19-PWA-App.png)
 ## Links
 Repo: https://github.com/thernand09/19-PWA-TextEditor
+Render Link: https://one9-pwa-texteditor-2.onrender.com
+
