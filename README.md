@@ -57,8 +57,8 @@ This program has has dependencies, and requires their installation via npm. This
 `npm start` - will run both client and server side
 
 ## Project Demo
-[!Main Page](./assets/19-PWA.png)
-[!Install Window](./assets/19-PWA-Install.png)
-[!Jate App](./assets/19-PWA-App.png)
+![Main Page](./assets/19-PWA.png)
+![Install Window](./assets/19-PWA-Install.png)
+![Jate App](./assets/19-PWA-App.png)
 ## Links
 Repo: https://github.com/thernand09/19-PWA-TextEditor
